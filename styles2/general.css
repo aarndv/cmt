@@ -27,11 +27,3 @@ body {
   flex-direction: column;
 }
 
-.letter-paper {
-  box-shadow: 1rem 1rem 2rem rgba(0, 0, 0, 0.3);
-  margin-top: 3rem;
-  margin-bottom: 3rem;
-  width: 62.5rem;
-  height: 75rem;
-  background-color: rgb(240, 240, 240);
-}
