@@ -2,8 +2,8 @@
   box-shadow: 1rem 1rem 2rem rgba(0, 0, 0, 0.3);
   margin-top: 3rem;
   margin-bottom: 3rem;
-  width: 80%;
-  height: 70rem;
+  width: 90%;
+  height: 55rem;
   display: flex;
 }
 
@@ -19,11 +19,17 @@
 .text-container p {
   font-size: 1rem;
   font-family: Caveat;
-  width: 70%;
+  width: 75%;
 }
 
 @media only screen and (min-width: 810px) {
   .text-container p {
     font-size: 1.5rem;
+  }
+}
+
+@media only screen and (min-width: 1020px) {
+  .text-container p {
+    font-size: 2.1rem;
   }
 }
